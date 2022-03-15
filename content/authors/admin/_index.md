@@ -1,6 +1,7 @@
 ---
 title: DereK Leung
 role: Former Maintenance Engineer at KPIX, San Francisco, USA.
+avatar_filename: null
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -13,19 +14,19 @@ social:
     link: /#contact
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
+    link: https://twitter.com/DL
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/dleung18
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Retiree
+    url: https://dleung18.netlify.app/
 education:
   courses:
     - course: PhD in Artificial Intelligence
